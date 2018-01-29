@@ -1,0 +1,5 @@
+- Read about http
+- line memory
+- OpenWeather -response in Celcium
+- change sys to argparse
+- GIThub and bitbacket
